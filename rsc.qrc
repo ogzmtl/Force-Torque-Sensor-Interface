@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/refresh.png</file>
+        <file>img/ati/Ati Mini40.STL</file>
+        <file>img/ati/Ati Mini40.obj</file>
+    </qresource>
+    <qresource prefix="/mesh"/>
+    <qresource prefix="/">
+        <file>meshes/meshes/obj1.mesh</file>
+        <file>meshes/Atimini40.qml</file>
+    </qresource>
+</RCC>
